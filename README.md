@@ -36,12 +36,8 @@ proyecto-analisis-outliers/
 │   ├── raw/        # Dataset original
 │   └── processed/  # Dataset enriquecido tras EDA
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_anomaly_detection.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_user_analysis.ipynb
-├── src/            # Código reutilizable
-├── requirements.txt
+│   ├── proyecto_fraud_detection.ipynb
+├── poetry.lock
 ├── pyproject.toml
 └── README.md
 ```
