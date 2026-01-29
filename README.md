@@ -28,7 +28,7 @@ El objetivo es **identificar patrones anómalos y señales de fraude**, prioriza
 Incluye información transaccional, histórica, contextual y de comportamiento del usuario.
 
 ---
-
+```
 ## 🧪 Estructura del proyecto
 
 proyecto-analisis-outliers/
@@ -44,7 +44,7 @@ proyecto-analisis-outliers/
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
-
+```
 
 
 ---
