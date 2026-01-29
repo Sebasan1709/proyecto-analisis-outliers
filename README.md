@@ -32,21 +32,19 @@ Incluye información transaccional, histórica, contextual y de comportamiento d
 ## 🧪 Estructura del proyecto
 
 proyecto-analisis-outliers/
-│
 ├── data/
-│ ├── raw/ # Dataset original
-│ ├── processed/ # Dataset enriquecido tras EDA
-│
+│   ├── raw/        # Dataset original
+│   └── processed/  # Dataset enriquecido tras EDA
 ├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_anomaly_detection.ipynb
-│ ├── 03_modeling.ipynb
-│ └── 04_user_analysis.ipynb
-│
-├── src/ # Código reutilizable
-│
-├── requirements.txt / pyproject.toml
+│   ├── 01_eda.ipynb
+│   ├── 02_anomaly_detection.ipynb
+│   ├── 03_modeling.ipynb
+│   └── 04_user_analysis.ipynb
+├── src/            # Código reutilizable
+├── requirements.txt
+├── pyproject.toml
 └── README.md
+
 
 
 ---
